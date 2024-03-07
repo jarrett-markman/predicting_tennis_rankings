@@ -1,1 +1,3 @@
-# predicting_tennis_rankings
+# Predicting Tennis Rankings
+
+IST 256 Final Project
